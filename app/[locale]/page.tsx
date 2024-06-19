@@ -56,7 +56,7 @@ export default function Home() {
         <img
           src="/images/image-devices.png"
           alt=""
-          className="max-w-[700px] mt-20"
+          className="w-[500px] lg:w-full mt-20"
         />
       </SectionWrapper>
 

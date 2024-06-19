@@ -1,5 +1,4 @@
 "use client";
-import clsx from "clsx";
 import { useParams } from "next/navigation";
 import { ReactNode, useTransition } from "react";
 import { useRouter, usePathname } from "@/navigation";
@@ -39,7 +38,7 @@ export default function LocaleSwitcherSelect({
   }
 
   return (
-    <div className="fixed bottom-10 right-32 drop-shadow-lg">
+    <div className="fixed bottom-5 sm:bottom-10 right-10 lg:right-32 drop-shadow-lg">
       <Select onValueChange={onSelectChange} defaultValue={defaultValue}>
         <SelectTrigger className="size-16">
           <Languages />
@@ -49,3 +48,7 @@ export default function LocaleSwitcherSelect({
     </div>
   );
 }
+
+
+
+
