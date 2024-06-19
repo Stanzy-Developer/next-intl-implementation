@@ -1,0 +1,76 @@
+{
+  "sectionTexts": {
+    "section1": {
+      "sectionTitle": "A history of everything you copy",
+      "sectionText": "Clipboard allows you to track and organize everything you copy. Instantly access your clipboard on all devices."
+    },
+
+    "section2": {
+      "sectionTitle": "Keep track of your snippets",
+      "sectionText": "Clipboard instantly stores any item you copy in the cloud, meaning you can access your snippets immediately on all your devices. Our Mac and iOS app will help you organize everything."
+    },
+
+    "section3": {
+      "sectionTitle": "Access Clipboard Anywhere",
+      "sectionText": "Whether you're on the go, or at your computer, you can access all your Clipboard snippets in a few simple clicks."
+    },
+
+    "section4": {
+      "sectionTitle": "Supercharge your workflow",
+      "sectionText": "We've got the tools to boost your productivity."
+    },
+
+    "section5": {
+      "sectionTitle": "Clipboard for iOS and Mac OS",
+      "sectionText": "Available for free on the App Store. Download for Mac or iOS, sync with iCloud and you're ready to start adding to your clipboard."
+    }
+  },
+
+  "featureSection": {
+    "feature": [
+      {
+        "title": "Quick Search",
+        "desc": "Easily search your snippets by content, category, web address, application, and more."
+      },
+      {
+        "title": "iCloud Sync",
+        "desc": "Instantly saves and syncs snippets across all your devices."
+      },
+      {
+        "title": "Complete History",
+        "desc": "Retrieve any snippets from the first moment you started using the app."
+      }
+    ],
+
+    "tools": [
+      {
+        "img": "/images/icon-blacklist.svg",
+        "name": "Create blacklists",
+        "desc": "Ensure sensitive information never makes its way to your clipboard by excluding certain sources."
+      },
+      {
+        "img": "/images/icon-text.svg",
+        "name": "Plain text snippets",
+        "desc": "Remove unwanted formatting from copied text for a consistent look."
+      },
+      {
+        "img": "/images/icon-preview.svg",
+        "name": "Sneak preview",
+        "desc": "Quick preview of all snippets on your Clipboard for easy access."
+      }
+    ]
+  },
+
+  "footerLinks": {
+    "1": "FAQs",
+    "2": "Contact Us",
+    "3": "Privacy Policy",
+    "4": "Press Kit",
+    "5": "Install Guide"
+  },
+
+  "Switcher": {
+    "label": "Change language",
+    "locale": "{locale, select, fr {🇫🇷 French} en {🇺🇸 English} other {Unknown}}"
+  }
+}

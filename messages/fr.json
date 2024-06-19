@@ -1,0 +1,84 @@
+{
+  "sectionTexts": {
+    "section1": {
+      "sectionTitle": "Une histoire de tout ce que vous copiez",
+      "sectionText": "Clipboard vous permet de suivre et d'organiser tout ce que vous copiez. Accédez instantanément à votre presse-papiers sur tous vos appareils."
+    },
+
+    "section2": {
+      "sectionTitle": "Gardez une trace de vos extraits",
+      "sectionText": "Clipboard stocke instantanément tout élément que vous copiez dans le cloud, ce qui signifie que vous pouvez accéder immédiatement à vos extraits sur tous vos appareils. Notre application Mac et iOS vous aidera à tout organiser."
+    },
+
+    "section3": {
+      "sectionTitle": "Accédez au Presse-papiers n'importe où",
+      "sectionText": "Que vous soyez en déplacement ou à votre ordinateur, vous pouvez accéder à tous vos extraits de presse-papiers en quelques clics simples."
+    },
+
+    "section4": {
+      "sectionTitle": "Boostez votre flux de travail",
+      "sectionText": "Nous avons les outils pour augmenter votre productivité."
+    },
+
+    "section5": {
+      "sectionTitle": "Presse-papiers pour iOS et Mac OS",
+      "sectionText": "Disponible gratuitement sur l'App Store. Téléchargez pour Mac ou iOS, synchronisez avec iCloud et vous êtes prêt à commencer à ajouter à votre presse-papiers."
+    }
+  },
+
+  "featureSection": {
+    "feature": [
+      {
+        "title": "Recherche rapide",
+        "desc": "Recherchez facilement vos extraits par contenu, catégorie, adresse Web, application, et plus encore."
+      },
+      {
+        "title": "Synchronisation iCloud",
+        "desc": "Enregistre et synchronise instantanément des extraits sur tous vos appareils."
+      },
+      {
+        "title": "Historique complet",
+        "desc": "Récupérez n'importe quel extrait depuis le moment où vous avez commencé à utiliser l'application."
+      }
+    ],
+
+    "tools": [
+      {
+        "img": "/images/icon-blacklist.svg",
+        "name": "Créer des listes noires",
+        "desc": "Assurez-vous que les informations sensibles ne parviennent jamais à votre presse-papiers en excluant certaines sources."
+      },
+      {
+        "img": "/images/icon-text.svg",
+        "name": "Extraits en texte brut",
+        "desc": "Supprimez le formatage indésirable du texte copié pour un aspect cohérent."
+      },
+      {
+        "img": "/images/icon-preview.svg",
+        "name": "Aperçu rapide",
+        "desc": "Aperçu rapide de tous les extraits sur votre presse-papiers pour un accès facile."
+      }
+    ],
+
+    "sponsors": [
+      "/images/logo-google.png",
+      "/images/logo-ibm.png",
+      "/images/logo-microsoft.png",
+      "/images/logo-hp.png",
+      "/images/logo-vector-graphics.png"
+    ]
+  },
+
+  "footerLinks": {
+    "1": "FAQs",
+    "2": "Contactez-nous",
+    "3": "Politique de confidentialité",
+    "4": "Kit de presse",
+    "5": "Guide d'installation"
+  },
+
+  "Switcher": {
+    "label": "Changer de langue",
+    "locale": "{locale, select, fr {🇫🇷 French} en {🇺🇸 English} other {Unknown}}"
+  }
+}
